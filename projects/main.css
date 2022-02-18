@@ -1,0 +1,29 @@
+html{
+    background-color: #13060f;
+    color: #b997bd;
+    font-family: "Comic Sans", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: scroll;
+    overflow-x: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    margin: 0px;
+    text-align: left;
+}
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a{
+    color: #92588e;
+    transition: color 0.3s, background-color 0.3s;
+}
+a:hover{
+    color: #131313;
+    background-color: #291725;
+}
+nav{
+    
+    text-align:center;
+    font-size:30px;
+    word-spacing:80px;
+}
